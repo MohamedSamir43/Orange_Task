@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    margin-bottom: 10%;
+    color: rgb(230, 196, 0);
+  }
+
+.loginPageButton {
+    margin-top:20px;
+    margin-right: 20px;
+    outline: none;
+    box-shadow: none;
+    border-width: 2px;
+    border-radius: 3px;
+    border-style: solid;
+    padding: 8px;
+    color: rgb(230, 196, 0);
+    border-color: rgb(230, 196, 0);
+    background-color: transparent;
+  }
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 35px;
+}
+input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin-top: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 35px;
+}
